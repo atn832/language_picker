@@ -2,7 +2,7 @@
 import 'languages.dart';
 
 class Languages {
-  static Language get abkhazian => Language('ab', 'Abkhazian', 'Aҧсуа');
+  static Language get abkhazian => Language('ab', 'Abkhazian', 'Аҧсуа');
   static Language get afar => Language('aa', 'Afar', 'Afaraf');
   static Language get afrikaans => Language('af', 'Afrikaans', 'Afrikaans');
   static Language get akan => Language('ak', 'Akan', 'Akan');
@@ -13,7 +13,7 @@ class Languages {
   static Language get armenian => Language('hy', 'Armenian', 'Հայերեն');
   static Language get assamese => Language('as', 'Assamese', 'অসমীয়া');
   static Language get avaric =>
-      Language('av', 'Avaric', 'Aвар мацӀ, магӀарул мацӀ');
+      Language('av', 'Avaric', 'Авар мацӀ, магӀарул мацӀ');
   static Language get avestan => Language('ae', 'Avestan', 'Avesta');
   static Language get aymara => Language('ay', 'Aymara', 'Aymar aru');
   static Language get azerbaijani =>
@@ -182,7 +182,7 @@ class Languages {
   static Language get sango => Language('sg', 'Sango', 'Yângâ tî sängö');
   static Language get sanskrit => Language('sa', 'Sanskrit', 'संस्कृतम्');
   static Language get sardinian => Language('sc', 'Sardinian', 'sardu');
-  static Language get serbian => Language('sr', 'Serbian', 'Cрпски језик');
+  static Language get serbian => Language('sr', 'Serbian', 'Српски језик');
   static Language get shona => Language('sn', 'Shona', 'ChiShona');
   static Language get sichuanYi => Language('ii', 'Sichuan Yi', 'ꆈꌠꉙ');
   static Language get sindhi =>
